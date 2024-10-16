@@ -1,6 +1,7 @@
 # Ecommerce basic API
 
 ## End Points
+<div>
   ### Customers
   <p>---> List of all Customers:- GET/api/customers/</p>
   <p>---> Create a new Customer:- POST/api/cutomers/</p>
@@ -16,7 +17,8 @@
   <p>---> Edit existing order:- PUT/api/orders/<id>/</p>
   <p>---> List order based on the products:- GET/api/orders/?products="name of the products"</p>
   <p>---> List order based on the customer:- GET/api/orders/?products="name of the customer"</p>
-
+</div>
+  
 ## Dummy SuperUser
 <p>username=admin</p>
 <p>password=123</p>
