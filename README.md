@@ -2,6 +2,7 @@
 
 ## End Points
 <div>
+  
   ### Customers
   <p>---> List of all Customers:- GET/api/customers/</p>
   <p>---> Create a new Customer:- POST/api/cutomers/</p>
